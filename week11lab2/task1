@@ -1,0 +1,4 @@
+The base case is when the list is empty (len(numbers) == 0)
+Each recursive call removes the first element from the list, reducing the problem size.
+Each function call adds the first element (numbers[0]) to the sum of the remaining list
+Each recursive call returns a partial sum, which is added to the previous result:

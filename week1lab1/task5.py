@@ -1,0 +1,2 @@
+name='kelvin'
+print(name)
